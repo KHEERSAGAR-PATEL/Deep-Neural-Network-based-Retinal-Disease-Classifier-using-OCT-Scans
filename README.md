@@ -86,8 +86,7 @@ The model was trained on a medical imaging dataset containing 600 OCT images (fr
 ### Prerequisites
 - Python 3.8+
 - PyTorch 1.10+
-- OpenCV, NumPy, and other standard libraries as listed in `requirements.txt`
-
+- OpenCV, NumPy, and other standard libraries.
 
 ## Results
 
