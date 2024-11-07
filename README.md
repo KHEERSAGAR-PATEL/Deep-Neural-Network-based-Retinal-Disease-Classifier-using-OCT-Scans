@@ -10,10 +10,7 @@ This document provides a detailed overview of the convolutional neural network (
 ### 3.1. Architecture
 1. **Convolutional Neural Network (CNN)**:
    - Initially introduced by Alex Krizhevsky in 2012 during the ILSVRC competition, CNNs have significantly advanced pattern recognition in computer vision, making them ideal for medical imaging applications.
-   - Key elements in a CNN include the convolution operation, defined by:
-     \[
-     y[n] = \sum_{k=-\infty}^{\infty} x[k]h[n - k]
-     \]
+   - Key elements in a CNN include the convolution operation
    - 2D convolution (used for image data) involves parameters such as kernel size, stride, padding, and the number of input and output channels, which affect the model's capacity to learn local and global features.
 
 2. **Regularization Techniques**:
